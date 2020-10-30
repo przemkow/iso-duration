@@ -1,5 +1,7 @@
 ## @musement/iso-duration
 
+github actions tests
+
 JS's library created to provide easy API for working with time duration.  
 Based on ISO 8601.  
 Inspired by [HumanizeDuration](https://github.com/EvanHahn/HumanizeDuration.js) and [ISO8601-duration](https://github.com/tolu/ISO8601-duration).
